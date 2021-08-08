@@ -1,13 +1,13 @@
 {
-  "name": "vijaycs85/drupal-quality-checker",
+  "name": "yuseferi/drupal-quality-checker",
   "type": "project",
   "description": "Setups code quality checking tools for Drupal project.",
-  "homepage": "https://github.com/vijaycs85/drupal-quality-checker",
+  "homepage": "https://github.com/yuseferi/drupal-quality-checker",
   "license": "MIT",
   "authors": [
     {
-      "name": "Vijaya Chandran Mani",
-      "homepage": "https://www.drupal.org/u/vijaycs85",
+      "name": "Yuseferi",
+      "homepage": "https://www.drupal.org/u/yuseferi",
       "role": "Maintainer"
     }
   ],
