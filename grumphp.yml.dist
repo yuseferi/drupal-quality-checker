@@ -1,9 +1,7 @@
-parameters:
+grumphp:
   ascii:
     failed: vendor/yuseferi/drupal-quality-checker/resources/ascii/grumpy.txt
     succeeded: vendor/yuseferi/drupal-quality-checker/resources/ascii/happy.txt
-  git_dir: .
-  bin_dir: vendor/bin
   tasks:
     phplint: ~
     yamllint: ~
@@ -32,3 +30,4 @@ parameters:
         - info
         - txt
         - md
+        
